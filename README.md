@@ -1,7 +1,7 @@
 # ESP32 another internet radio
  A simple internetradio with stream buffer.
 
-#esp32
+# esp32
 I use ADAFRUIT Music Maker as soundcard. It have the VS1053 chip.
 The special with this code is it use a ringbuffer for the stream.
 #include <RingBuf.h>
